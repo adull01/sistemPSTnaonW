@@ -104,8 +104,7 @@ Catatan:
 php artisan jwt:secret
 ```
 
-Untuk melihat implementasi API dapat dilihat pada repositori berikut
-> https://github.com/dibaliqaja/pesantren-app
+
 
 ### Kredensial Pengguna yang ada pada Seeder
 | #        | Administrator    | Pengurus            | Santri              |
@@ -113,6 +112,4 @@ Untuk melihat implementasi API dapat dilihat pada repositori berikut
 | Email    | admin@ponpes.com | pengurus@ponpes.com | santri@ponpes.com |
 | Password | password         | password            | password            |
 
-## Lisensi
 
-Proyek ini dilisensikan di bawah lisensi [MIT](https://opensource.org/licenses/MIT).
